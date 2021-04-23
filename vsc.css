@@ -1,0 +1,55 @@
+nav img{
+    height: 80px;
+    width: 130px;
+    border-radius: 20%;
+    object-fit:scale-down;
+}
+main{
+    text-align: center;
+}
+
+#textarea{
+    margin-top: 20px;
+    width: 98%;
+    min-height: 280px;
+border-radius: 20px;
+border: 2px solid rgb(0, 0, 0);
+}
+
+#div{
+    display: flex;
+    justify-content:space-evenly;
+    
+}
+
+#div button{
+    width: 47%;
+    height: 70px;
+    border-radius: 20px;
+    border: 2px solid black;
+    
+}
+#del{
+    background-color: red;
+    color: white;
+    font-size: 30px;
+    letter-spacing: 2px;
+}
+#run{
+    background-color: rgb(17, 187, 17);
+    color: ivory;
+    font-size: 30px;
+    letter-spacing: 2px;  
+}
+#ktiba{
+    padding: 15px;
+    border-bottom: 4px solid black;
+    font-weight: bold;
+
+}
+#body{
+    min-height: 1000px;
+}
+#result{
+    max-width: 100% !important;
+}
